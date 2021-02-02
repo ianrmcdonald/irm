@@ -1,0 +1,14 @@
+---
+title: So where will we put the map
+author: Ian McDonald
+date: '2021-02-02'
+slug: []
+categories:
+  - Development
+tags:
+  - elections
+description: ''
+thumbnail: ''
+---
+
+Going to reflect on this.
