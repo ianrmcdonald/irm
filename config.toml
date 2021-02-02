@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Mainroad TOML"
+title = "Ian McDonald R Stuff"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
@@ -7,8 +7,8 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Ian McDonald"
+  bio = "Ian does R stuff"
   avatar = "img/avatar.png"
 
 [Params]
