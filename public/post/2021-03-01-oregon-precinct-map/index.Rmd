@@ -1,0 +1,12 @@
+---
+title: "Oregon Precinct Map"
+author: "Ian McDonald"
+date: '2021-03-01'
+slug: []
+categories: politics
+tags: elections
+description: ''
+thumbnail: ''
+---
+
+Here is a link for the map markdown at <https://ianrmcdonald.netlify.app/oregon-precincts.html>

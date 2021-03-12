@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elections on Ian McDonald R Stuff and More</title>
+    <link>/tags/elections/</link>
+    <description>Recent content in elections on Ian McDonald R Stuff and More</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NYT February 2</title>
+      <link>/post/2021-02-02-nyt-february-2/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-02-nyt-february-2/</guid>
+      <description>I like my map better than theirs.</description>
+    </item>
+    
+    <item>
+      <title>So where will we put the map</title>
+      <link>/post/2021-02-02-so-where-will-we-put-the-map/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-02-so-where-will-we-put-the-map/</guid>
+      <description>Going to reflect on this.</description>
+    </item>
+    
+  </channel>
+</rss>
