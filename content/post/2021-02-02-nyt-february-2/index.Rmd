@@ -1,0 +1,16 @@
+---
+title: NYT February 2
+author: Ian McDonald
+date: '2021-02-02'
+slug: []
+categories:
+  - Development
+tags:
+  - elections
+description: ''
+thumbnail: ''
+---
+
+I like my map better than theirs or theirs.
+
+Here is a link: [Oregon Precincts](http://ianrmcdonald.netlify.app/Oregon-Precincts.html)

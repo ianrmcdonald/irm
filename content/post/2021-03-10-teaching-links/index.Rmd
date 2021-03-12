@@ -1,0 +1,14 @@
+---
+title: Teaching Links
+author: Ian McDonald
+date: '2021-03-10'
+slug: []
+categories: []
+tags:
+  - teaching
+description: ''
+thumbnail: ''
+menu: main
+---
+
+[Education and Discovery I:  The Pursuit of Happiness (Fall 2015)](https://github.com/ianrmcdonald/Teaching/tree/main/Lewis%20%26%20Clark/E%26D%20Fall%202015)

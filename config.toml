@@ -1,35 +1,45 @@
 baseurl = "/"
-title = "Ian McDonald R Stuff"
+title = "Ian R. McDonald, Ph.D."
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+relativeURLs = true
+summaryLength = 20
 
 [Author]
   name = "Ian McDonald"
-  bio = "Ian does R stuff"
-  avatar = "img/avatar.png"
+  bio = "Ian does lots of good stuff"
+  avatar = "img/oneangryotter.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Ian McDonald explores R" # Description of your site
   opengraph = true
-  twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
+  twitter_cards = true
+  readmore = true # Show "Read more" button in list if true
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  dateformat = "January 2, 2006" # Change the format of dates
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "Politics, R, Movies, and Data Viz" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["social", "search","taglist", "recent", "languages"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  
+[Params.style.vars]
+  highlightColor = "#0317fc"
+	
+[Params.widgets.social]
+	email = "mcdonaldian1957@gmail.com"
+	twitter = "ianrmcdonald"

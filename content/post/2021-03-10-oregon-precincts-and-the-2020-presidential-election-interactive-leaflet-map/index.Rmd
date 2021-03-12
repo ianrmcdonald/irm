@@ -1,0 +1,18 @@
+---
+title: 'Oregon Precincts'
+author: Ian McDonald
+date: '2021-03-10'
+slug: []
+categories: []
+tags:
+  - elections
+description: ''
+thumbnail: ''
+menu: main
+---
+
+Oregon precincts and the 2020 presidential election:  An interactive leaflet map.
+
+http://ianrmcdonald.netlify.app/Oregon-Precincts.html
+
+
